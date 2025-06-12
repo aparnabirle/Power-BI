@@ -5,7 +5,7 @@ Welcome to my Power BI Data Analysis repository! This space highlights a dashboa
 
 ## 🔍 Project List
 
-1. [World Happiness Dashboard][(https://github.com/aparnabirle/Power-BI/blob/main/World%20Happiness%20Report.pbix)]
+1. [World Happiness Dashboard] (https://github.com/aparnabirle/Power-BI/blob/main/World%20Happiness%20Report.pbix)
 
    
 ## 🌍 World Happiness Dashboard
