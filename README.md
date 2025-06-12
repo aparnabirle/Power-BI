@@ -5,24 +5,24 @@ Welcome to my Power BI Data Analysis repository! This space highlights a collect
 
 ## 🔍 Project List
 
-1. [World Happiness Dashboard](https://github.com/aparnabirle/excel-data-visuals/tree/main/Cookie%20Performance%20Dashboard)
+1. [World Happiness Dashboard]([https://github.com/aparnabirle/Power-BI/blob/main/World%20Happiness%20Report.pbix])
 
    
 ## 🌍 World Happiness Dashboard
 
-An engaging and interactive Power BI dashboard that visualizes the World Happiness Report 2023 across continents and countries.
+An engaging and interactive Power BI dashboard that visualises the World Happiness Report 2023 across continents and countries.
 
 **Key Features:**
 
 - Top 10 Happiest Countries ranked by score.
 
-- Continent-wise breakdown using pie chart for global happiness share.
+- Continent-wise breakdown using a pie chart for the global happiness share.
 
-- Happiness Score by Country visualized on a world map.
+- Happiness Score by Country visualised on a world map.
 
-- Emoji-based sentiment visualization for fun, intuitive interpretation.
+- Emoji-based sentiment visualisation for fun, intuitive interpretation.
 
-- Clear regional comparisons and color-coded scores for data-driven storytelling.
+- Clear regional comparisons and colour-coded scores for data-driven storytelling.
 
 
 ## 🙌 Acknowledgments
