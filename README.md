@@ -1,11 +1,11 @@
 # 📊 Data Analysis in Power BI
 
 
-Welcome to my Power BI Data Analysis repository! This space highlights a collection of dashboard projects built using Power BI, focused on World Happiness insights. This dashboard showcase advanced data visualization, insightful metrics, and interactive elements to drive better decision-making.
+Welcome to my Power BI Data Analysis repository! This space highlights a dashboard project built using Power BI, focused on World Happiness insights. This dashboard showcases advanced data visualisation, insightful metrics, and interactive elements to drive better decision-making.
 
 ## 🔍 Project List
 
-1. [World Happiness Dashboard]([https://github.com/aparnabirle/Power-BI/blob/main/World%20Happiness%20Report.pbix])
+1. [World Happiness Dashboard][(https://github.com/aparnabirle/Power-BI/blob/main/World%20Happiness%20Report.pbix)]
 
    
 ## 🌍 World Happiness Dashboard
